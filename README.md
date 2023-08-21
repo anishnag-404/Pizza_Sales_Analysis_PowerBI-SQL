@@ -2,5 +2,5 @@
 Power BI and SQL Project on Pizza Sales.
 
 Project done on Pizza Sales to gain insights and understand key trends into business performance.
-Created SQL Queries and Power Bi reports. Thank you
+Created SQL Queries and PowerBI reports. Thank you
 
